@@ -1,5 +1,5 @@
 {
-  "name": "web recording",
+  "name": "screen scrapping",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
@@ -43,7 +43,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "51075b87-bb95-47aa-9b81-b46da73393f0",
+      "uniqueId": "d1033646-e20a-4904-b9ec-0abbb5be6479",
       "input": [],
       "output": []
     }
